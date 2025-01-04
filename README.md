@@ -17,3 +17,6 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+What it is:
+This is a python script that calculates logitics shipping rates 
