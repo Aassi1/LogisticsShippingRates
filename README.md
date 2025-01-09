@@ -19,4 +19,4 @@ Licensing:
 Contributions are licensed.
 
 What it is:
-This is a python script that calculates logitics shipping rates 
+This is a very simple python script that calculates logitics shipping rates.  
